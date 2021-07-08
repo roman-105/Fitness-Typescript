@@ -1,4 +1,4 @@
-# Basic Fit App
+# FitnessApp
 
 ## Setup
 
