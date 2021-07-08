@@ -1,0 +1,142 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MediaCard snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 2,
+        "elevation": 1,
+        "maxHeight": 300,
+        "shadowColor": "rgba(0,0,0,0.16)",
+        "shadowOffset": Object {
+          "height": 4,
+          "width": 4,
+        },
+        "shadowOpacity": 0.1,
+        "shadowRadius": 1,
+        "width": "100%",
+      },
+      Array [
+        undefined,
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "height": "85%",
+        "justifyContent": "space-between",
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Array [
+            Object {
+              "borderTopLeftRadius": 2,
+              "borderTopRightRadius": 2,
+              "justifyContent": "flex-end",
+              "marginBottom": -1,
+              "overflow": "hidden",
+              "width": "100%",
+            },
+            Object {
+              "height": "80%",
+            },
+            Object {
+              "borderBottomColor": "#FFFFFF",
+              "justifyContent": "space-between",
+            },
+          ],
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="cover"
+        source={null}
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+      <View />
+      <View
+        style={
+          Object {
+            "borderBottomColor": "#FFFFFF",
+            "borderBottomWidth": 25,
+            "borderLeftColor": "transparent",
+            "borderLeftWidth": 400,
+            "borderStyle": "solid",
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "paddingHorizontal": 16,
+          "paddingTop": 6,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "maxWidth": "100%",
+          }
+        }
+      >
+        <Text
+          ellipsizeMode="tail"
+          numberOfLines={1}
+          style={
+            Array [
+              Object {
+                "fontFamily": "Impact",
+              },
+              undefined,
+              undefined,
+              undefined,
+              Object {
+                "textTransform": "uppercase",
+              },
+              undefined,
+              undefined,
+            ]
+          }
+        >
+          Media card
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

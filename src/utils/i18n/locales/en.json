@@ -1,0 +1,230 @@
+{
+  "About data sharing": {
+    "message": "About data sharing"
+  },
+  "Add club": {
+    "message": "Add club"
+  },
+  "All": {
+    "message": "All"
+  },
+  "And remember to go for it!": {
+    "message": "And remember to go for it!"
+  },
+  "App results": {
+    "message": "App results"
+  },
+  "Apple health": {
+    "message": "Apple health"
+  },
+  "Apply filters": {
+    "message": "Apply filters"
+  },
+  "Bummer...\nNo results were found.\nTry another search": {
+    "message": "Bummer...\nNo results were found.\nTry another search"
+  },
+  "Bummer... No results were found. Try another search!": {
+    "message": "Bummer... No results were found. Try another search!"
+  },
+  "CANCEL": {
+    "message": "CANCEL"
+  },
+  "Class": {
+    "message": "Class"
+  },
+  "Closed": {
+    "message": "Closed"
+  },
+  "Club Finder": {
+    "message": "Club Finder"
+  },
+  "Clubs": {
+    "message": "Clubs"
+  },
+  "Coach": {
+    "message": "Coach"
+  },
+  "Connected app": {
+    "message": "Connected app"
+  },
+  "DISCLAIMER": {
+    "message": "DISCLAIMER"
+  },
+  "Directions": {
+    "message": "Directions"
+  },
+  "Duration": {
+    "message": "Duration"
+  },
+  "Either the email address or password you provided is incorrect. Please try again.": {
+    "message": "Either the email address or password you provided is incorrect. Please try again."
+  },
+  "Explore": {
+    "message": "Explore"
+  },
+  "Favourite": {
+    "message": "Favourite"
+  },
+  "Favourited": {
+    "message": "Favourited"
+  },
+  "Filters": {
+    "message": "Filters"
+  },
+  "Forgot password": {
+    "message": "Forgot password"
+  },
+  "Google fit": {
+    "message": "Google fit"
+  },
+  "Group Classes Schedule": {
+    "message": "Group Classes Schedule"
+  },
+  "Group classes": {
+    "message": "Group classes"
+  },
+  "Gymtime Reservation": {
+    "message": "Gymtime Reservation"
+  },
+  "Help": {
+    "message": "Help"
+  },
+  "Home": {
+    "message": "Home"
+  },
+  "Home club": {
+    "message": "Home club"
+  },
+  "How can we help you?": {
+    "message": "How can we help you?"
+  },
+  "In Progress": {
+    "message": "In Progress"
+  },
+  "Live": {
+    "message": "Live"
+  },
+  "Localisation": {
+    "message": "Localisation"
+  },
+  "No group classes available": {
+    "message": "No group classes available"
+  },
+  "OKAY": {
+    "message": "OKAY"
+  },
+  "Oops, something went wrong. We were not able to connect. Please try again.": {
+    "message": "Oops, something went wrong. We were not able to connect. Please try again."
+  },
+  "Oops, something went wrong. We were not able to connect. Try adapting your device permissions.": {
+    "message": "Oops, something went wrong. We were not able to connect. Try adapting your device permissions."
+  },
+  "Oops, your device got disconnected.": {
+    "message": "Oops, your device got disconnected."
+  },
+  "Open 24/7": {
+    "message": "Open 24/7"
+  },
+  "Open till { hour }": {
+    "message": "Open till { hour }"
+  },
+  "Opening hours": {
+    "message": "Opening hours"
+  },
+  "Please switch your connection to WiFi to be able to cast the video.": {
+    "message": "Please switch your connection to WiFi to be able to cast the video."
+  },
+  "Progress": {
+    "message": "Progress"
+  },
+  "Reset": {
+    "message": "Reset"
+  },
+  "Search": {
+    "message": "Search"
+  },
+  "Search a club": {
+    "message": "Search a club"
+  },
+  "Search by name or postcode": {
+    "message": "Search by name or postcode"
+  },
+  "See All": {
+    "message": "See All"
+  },
+  "Services": {
+    "message": "Services"
+  },
+  "Share": {
+    "message": "Share"
+  },
+  "Show holidays schedule": {
+    "message": "Show holidays schedule"
+  },
+  "Show more": {
+    "message": "Show more"
+  },
+  "Temporarily closed": {
+    "message": "Temporarily closed"
+  },
+  "The connection has succesfully been removed": {
+    "message": "The connection has succesfully been removed"
+  },
+  "There are no more {content} to show.": {
+    "message": "There are no more { content } to show."
+  },
+  "To disconnect open the Health app - Go to Profile - Privacy - Apps - BFA - Press Turn All Categories Off": {
+    "message": "To disconnect open the Health app - Go to Profile - Privacy - Apps - BFA - Press Turn All Categories Off"
+  },
+  "Today": {
+    "message": "Today"
+  },
+  "Tomorrow": {
+    "message": "Tomorrow"
+  },
+  "Training and blog results": {
+    "message": "Training and blog results"
+  },
+  "Type": {
+    "message": "Type"
+  },
+  "Use your Basic-Fit member details to login.": {
+    "message": "Use your Basic-Fit member details to login."
+  },
+  "View group class schedule": {
+    "message": "View group class schedule"
+  },
+  "When you connect your health app, some data from your health app will be shared and stored by Basic-Fit. If you want more information about which data we process in this context, why and how, read our privacy statement.": {
+    "message": "When you connect your health app, some data from your health app will be shared and stored by Basic-Fit. If you want more information about which data we process in this context, why and how, read our privacy statement."
+  },
+  "You are not connected to any health apps": {
+    "message": "You are not connected to any health apps"
+  },
+  "Your Basic-Fit app connects to the calories and movement data from your favorite health apps": {
+    "message": "Your Basic-Fit app connects to the calories and movement data from your favorite health apps"
+  },
+  "Your favorite clubs": {
+    "message": "Your favorite clubs"
+  },
+  "from your location": {
+    "message": "from your location"
+  },
+  "kcal": {
+    "message": "kcal"
+  },
+  "min": {
+    "message": "min"
+  },
+  "no link found": {
+    "message": "no link found"
+  },
+  "no screen {link} found": {
+    "message": "no screen { link } found"
+  },
+  "that match your search": {
+    "message": "that match your search"
+  },
+  "{\n      count, plural,\n        one {# Result}\n      other {# Results}\n            }": {
+    "message": "{ count, plural,\n    one {# Result}\n  other {# Results}\n}"
+  }
+}

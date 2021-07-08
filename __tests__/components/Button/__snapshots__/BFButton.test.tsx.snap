@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BFButton snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#7322C9",
+      "justifyContent": "center",
+      "margin": 0,
+      "opacity": 1,
+      "padding": 8,
+    }
+  }
+  testID="Button"
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "fontFamily": "HeadingProTreble-Regular",
+          "fontSize": 32,
+          "fontStyle": "normal",
+          "lineHeight": 38,
+          "textTransform": "uppercase",
+        },
+        Array [
+          Object {
+            "color": "#FFFFFF",
+            "fontSize": 16,
+          },
+          undefined,
+        ],
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    Button
+  </Text>
+</View>
+`;

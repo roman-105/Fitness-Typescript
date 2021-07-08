@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "825578885285",
+    "project_id": "basic-fit-app---qa",
+    "storage_bucket": "basic-fit-app---qa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825578885285:android:15bd552b76f580fadebd4c",
+        "android_client_info": {
+          "package_name": "com.basicfit.trainingApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825578885285-eog86t7c3lsa976mvp30a8i9t8t8fppl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9xUmJItHw8w0xwebrRqPFhAQgpoeWVUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825578885285-eog86t7c3lsa976mvp30a8i9t8t8fppl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "825578885285-eccugjhfg3djr0uqn8mmr6bjv2lkhjdb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.basicfit.traniningApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,251 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer renders the correct content 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "paddingHorizontal": 20,
+      "paddingVertical": 16,
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "fontFamily": "HeadingProTreble-Heavy",
+        },
+        undefined,
+        Object {
+          "fontSize": 14,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    Quick services
+  </Text>
+  <View
+    style={
+      Object {
+        "marginTop": 14,
+      }
+    }
+  >
+    <RNGestureHandlerButton
+      collapsable={false}
+      onGestureEvent={[Function]}
+      onGestureHandlerEvent={[Function]}
+      onGestureHandlerStateChange={[Function]}
+      onHandlerStateChange={[Function]}
+      rippleColor={0}
+    >
+      <View
+        accessible={true}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "borderColor": "rgba(49,49,54,0.32)",
+              "borderRadius": 2,
+              "borderWidth": 1,
+              "flex": 1,
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 8,
+              "paddingHorizontal": 16,
+              "paddingVertical": 12,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "ArgumentumMedium",
+                  },
+                  Object {
+                    "marginLeft": 8,
+                  },
+                  Object {
+                    "fontSize": 14,
+                  },
+                  Object {
+                    "lineHeight": 14,
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                ]
+              }
+            >
+              Hello, Im a mock #1
+            </Text>
+          </View>
+          <test-file-stub
+            stroke="#000000"
+          />
+        </View>
+      </View>
+    </RNGestureHandlerButton>
+    <RNGestureHandlerButton
+      collapsable={false}
+      onGestureEvent={[Function]}
+      onGestureHandlerEvent={[Function]}
+      onGestureHandlerStateChange={[Function]}
+      onHandlerStateChange={[Function]}
+      rippleColor={0}
+    >
+      <View
+        accessible={true}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "borderColor": "rgba(49,49,54,0.32)",
+              "borderRadius": 2,
+              "borderWidth": 1,
+              "flex": 1,
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 8,
+              "paddingHorizontal": 16,
+              "paddingVertical": 12,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "ArgumentumMedium",
+                  },
+                  Object {
+                    "marginLeft": 8,
+                  },
+                  Object {
+                    "fontSize": 14,
+                  },
+                  Object {
+                    "lineHeight": 14,
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                ]
+              }
+            >
+              Hello, Im a mock #2
+            </Text>
+          </View>
+          <test-file-stub
+            fill="#000000"
+          />
+        </View>
+      </View>
+    </RNGestureHandlerButton>
+    <RNGestureHandlerButton
+      collapsable={false}
+      onGestureEvent={[Function]}
+      onGestureHandlerEvent={[Function]}
+      onGestureHandlerStateChange={[Function]}
+      onHandlerStateChange={[Function]}
+      rippleColor={0}
+    >
+      <View
+        accessible={true}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "borderColor": "rgba(49,49,54,0.32)",
+              "borderRadius": 2,
+              "borderWidth": 1,
+              "flex": 1,
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginBottom": 8,
+              "paddingHorizontal": 16,
+              "paddingVertical": 12,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "ArgumentumMedium",
+                  },
+                  Object {
+                    "marginLeft": 8,
+                  },
+                  Object {
+                    "fontSize": 14,
+                  },
+                  Object {
+                    "lineHeight": 14,
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                ]
+              }
+            >
+              Hello, Im a mock #3
+            </Text>
+          </View>
+          <test-file-stub
+            fill="#000000"
+          />
+        </View>
+      </View>
+    </RNGestureHandlerButton>
+  </View>
+</View>
+`;

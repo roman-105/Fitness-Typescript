@@ -1,0 +1,23 @@
+{
+    "preset": "ts-jest",
+    "setupFilesAfterEnv": ["./init.ts"],
+    "testEnvironment": "node",
+    "testRunner": "jasmine2",
+    "testTimeout": 120000,
+    "testRegex": "\\.e2e\\.ts$",
+    "reporters": [
+        "default",
+        [
+          "jest-junit",
+          {
+            "suiteName": "BasicFitApp E2E tests",
+            "outputDirectory": "./e2e/.output",
+            "outputName": "e2e-test-report.xml",
+            "ancestorSeparator": " > ",
+            "classNameTemplate": "{classname} - {title}",
+            "titleTemplate": "{classname} - {title}"
+          }
+        ]
+      ],
+    "verbose": true
+}

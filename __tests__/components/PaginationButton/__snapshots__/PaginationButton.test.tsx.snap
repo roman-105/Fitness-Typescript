@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PaginationButton passes snapshot testing on hasmore false 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "padding": 8,
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "fontFamily": "Argumentum",
+        },
+        undefined,
+        Object {
+          "fontSize": 14,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    There are no more recipe to show.
+  </Text>
+</View>
+`;
+
+exports[`PaginationButton passes snapshot testing on hasmore true 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onLayout={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  pointerEvents="box-only"
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "height": 48,
+      "justifyContent": "center",
+    }
+  }
+  testID="pagination-button-ripple"
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "fontFamily": "Argumentum",
+        },
+        undefined,
+        Object {
+          "fontSize": 14,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    Show more
+  </Text>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+          "bottom": 0,
+          "left": 0,
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        },
+        Object {
+          "borderRadius": 0,
+        },
+      ]
+    }
+  />
+</View>
+`;
